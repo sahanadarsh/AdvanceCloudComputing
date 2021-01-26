@@ -1,10 +1,4 @@
 # infrastructure-GKE
-## Team Members
-Name | NUID | email 
----|---|---
-Leming Li | 001054503 | li.lem@northeastern.edu
-Sahana Kannahallimole Somanna | 001086735 | kannahallimolesoma.s@northeastern.edu
-Sahithi Sarabu | 001067925 | sarabu.s@northeastern.edu
 ## Prerequisites
 ### Cloud Project
 
