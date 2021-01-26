@@ -1,10 +1,4 @@
 # webapp
-## API
-[API](https://app.swaggerhub.com/apis-docs/csye7125/fall-2020/assignment-05#/authenticated)
-## Team Members
- - Leming Li | NUID:001054503 | li.lem@northeastern.edu
- - Sahana Kannahallimole Somanna | NUID:001086735 | kannahallimolesoma.s@northeastern.edu
- - Sahithi Sarabu | NUID:001067925 | sarabu.s@northeastern.edu
 ## Continuous Integration
 ### Instance set up
   - Once the jenkins instance is up make sure you have docker permissions by running ```docker run hello-world``` SSHing into the instance
