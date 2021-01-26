@@ -1,8 +1,4 @@
 # infrastructure
-## Team Members
- - Leming Li | NUID:001054503 | li.lem@northeastern.edu
- - Sahana Kannahallimole Somanna | NUID:001086735 | kannahallimolesoma.s@northeastern.edu
- - Sahithi Sarabu | NUID:001067925 | sarabu.s@northeastern.edu
 # Infrastructure as Code - RDS, Kubernetes cluster and VPC peering
 ## Prerequirements
 - Configure AWS cli (aws account set-up with proper profile credentials/region needed).
